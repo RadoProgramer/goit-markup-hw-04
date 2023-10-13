@@ -474,7 +474,9 @@ color: var(--pressed-state-color);
     align-items: center;
     justify-content: center;
 }
-.social-link:hover,
+.social-link:hover{
+    background-color: var(--pressed-state-color);
+}
 .social-link:focus{
     background-color: var(--pressed-state-color);
 }
@@ -527,11 +529,13 @@ fill: var(--light-color);
     color: var(--subtle-text-color);
 }
 
-.customer-link:hover,
+.customer-link:hover{
+    color: var(--pressed-state-color);
+    border-color: var(--pressed-state-color);
+}
 .customer-link:focus {
     color: var(--pressed-state-color);
     border-color: var(--pressed-state-color);
-    transition: var(--standard-animation);
 
 }
 .custmer-svg{
