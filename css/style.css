@@ -515,11 +515,9 @@ fill: var(--light-color);
     gap: 24px;
     justify-content: center;
 }
-
 .customer-icon {
     width: 168px;
     height: 88px;
-    padding: 16px 32px;
     width: calc((100% - 120px)/6);
 }
 .customer-link{
@@ -543,6 +541,7 @@ fill: var(--light-color);
 
 }
 .custmer-svg{
+    fill: currentColor;
     fill: currentColor;
 }
 .footer-socials-title {
