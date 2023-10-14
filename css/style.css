@@ -261,7 +261,6 @@ color: var(--pressed-state-color);
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
-    padding: 8px;
 }
 .list{
     list-style: none;
@@ -552,9 +551,7 @@ fill: var(--light-color);
     letter-spacing: 0.02em;
     margin-bottom: 16px;
 }
-.footer-socials {
-    margin-left: 120px;
-}
+
     
 .footer-social-icons {
     display: flex;
