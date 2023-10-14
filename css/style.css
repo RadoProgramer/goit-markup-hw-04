@@ -540,9 +540,9 @@ fill: var(--light-color);
     border-color: var(--pressed-state-color);
 
 }
-.custmer-svg{
+.customer-link > svg{
     fill: currentColor;
-    fill: currentColor;
+
 }
 .footer-socials-title {
     color: var(--white-background-color);
