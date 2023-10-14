@@ -261,6 +261,7 @@ color: var(--pressed-state-color);
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.02em;
+    padding: 8px;
 }
 .list{
     list-style: none;
@@ -277,6 +278,7 @@ color: var(--pressed-state-color);
     letter-spacing: 0.02em;
     text-align: center;
     margin-bottom: 8px;
+    margin: 0;
 }
 .foto-list{
     text-align: center;
