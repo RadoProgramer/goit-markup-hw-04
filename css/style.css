@@ -488,12 +488,10 @@ color: var(--pressed-state-color);
 fill: var(--light-color);    
 }
 
-.social-icon:hover {
-    background-color: var(--pressed-state-color);
-}
 .customers {
     padding-top: 120px;
     padding-bottom: 120px;
+
 }
 
 .customers-header {
@@ -506,7 +504,6 @@ fill: var(--light-color);
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
-    padding-bottom: 72px;
     margin-bottom: 72px;
 }
 
@@ -529,6 +526,7 @@ fill: var(--light-color);
     align-items: center;
     justify-content: center;
     color: var(--subtle-text-color);
+    padding: 16px 32px;
 }
 
 .customer-link:hover{
