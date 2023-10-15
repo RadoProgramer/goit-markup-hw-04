@@ -539,10 +539,6 @@ fill: var(--light-color);
     border-color: var(--pressed-state-color);
 
 }
-.customer-link > svg{
-    fill: currentColor;
-
-}
 .currentcolor-svg{
     fill: currentColor;
 }
