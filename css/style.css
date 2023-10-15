@@ -543,6 +543,9 @@ fill: var(--light-color);
     fill: currentColor;
 
 }
+.currentcolor-svg{
+    fill: currentColor;
+}
 .footer-socials-title {
     color: var(--white-background-color);
     font-weight: 500;
